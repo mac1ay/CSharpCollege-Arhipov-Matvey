@@ -1,0 +1,20 @@
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\Рисунок.csproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\БомбитьКиев2014.Properties.Resources.resources
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\Рисунок.csproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\Рисунок.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\bin\Debug\БомбитьКиев2014.exe.config
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\bin\Debug\БомбитьКиев2014.exe
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\bin\Debug\БомбитьКиев2014.pdb
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\risunok.PictureForm.resources
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\БомбитьКиев2014.exe
+C:\Users\Matvey\Desktop\CSharpCollege-Danilov_Artem\ProjectPicrure\Project\obj\Debug\БомбитьКиев2014.pdb
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\Рисунок.csproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\risunok.PictureForm.resources
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\БомбитьКиев2014.Properties.Resources.resources
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\Рисунок.csproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\Рисунок.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\БомбитьКиев2014.exe
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\obj\Debug\БомбитьКиев2014.pdb
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\bin\Debug\БомбитьКиев2014.exe.config
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\bin\Debug\БомбитьКиев2014.exe
+C:\Users\Matvey\Desktop\CSharpCollege-Arhipov Matvey\ProjectPicture\Project\bin\Debug\БомбитьКиев2014.pdb
